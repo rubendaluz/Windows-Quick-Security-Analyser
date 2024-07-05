@@ -1,0 +1,223 @@
+﻿{
+    "USB Malware Protection":  {
+                                   "USB Storage Policy":  "USB storage devices are enabled. This can be a security risk.",
+                                   "AutoRun Status":  "AutoRun is enabled. This can be a security risk."
+                               },
+    "Application Logs":  [
+
+                         ],
+    "Pending Updates":  [
+
+                        ],
+    "DNS Cache Check":  "No malicious URLs found in DNS cache.",
+    "System Logs":  [
+
+                    ],
+    "Open TCP Ports":  [
+                           {
+                               "Local Address":  "::",
+                               "Remote Port":  0,
+                               "Local Port":  135,
+                               "Remote Address":  "::",
+                               "State":  "LISTEN"
+                           },
+                           {
+                               "Local Address":  "192.168.163.1",
+                               "Remote Port":  0,
+                               "Local Port":  139,
+                               "Remote Address":  "0.0.0.0",
+                               "State":  "LISTEN"
+                           },
+                           {
+                               "Local Address":  "192.168.56.1",
+                               "Remote Port":  0,
+                               "Local Port":  139,
+                               "Remote Address":  "0.0.0.0",
+                               "State":  "LISTEN"
+                           },
+                           {
+                               "Local Address":  "192.168.17.1",
+                               "Remote Port":  0,
+                               "Local Port":  139,
+                               "Remote Address":  "0.0.0.0",
+                               "State":  "LISTEN"
+                           },
+                           {
+                               "Local Address":  "172.16.194.130",
+                               "Remote Port":  0,
+                               "Local Port":  139,
+                               "Remote Address":  "0.0.0.0",
+                               "State":  "LISTEN"
+                           },
+                           {
+                               "Local Address":  "26.112.252.212",
+                               "Remote Port":  0,
+                               "Local Port":  139,
+                               "Remote Address":  "0.0.0.0",
+                               "State":  "LISTEN"
+                           },
+                           {
+                               "Local Address":  "10.1.187.197",
+                               "Remote Port":  0,
+                               "Local Port":  139,
+                               "Remote Address":  "0.0.0.0",
+                               "State":  "LISTEN"
+                           },
+                           {
+                               "Local Address":  "0.0.0.0",
+                               "Remote Port":  0,
+                               "Local Port":  135,
+                               "Remote Address":  "0.0.0.0",
+                               "State":  "LISTEN"
+                           }
+                       ],
+    "System Information":  {
+                               "Architecture":  "64-bit",
+                               "System Update Status":  "Updated.",
+                               "BitLocker Status":  "Disabled.",
+                               "Operating System":  "Microsoft Windows 11 Home",
+                               "Window defender Status":  "Ative",
+                               "Windows Version":  "2009"
+                           },
+    "VPN and Proxy Check":  {
+                                "ConnectionStatus":  "Connected",
+                                "Name":  "VPN@ESTG",
+                                "ServerAddress":  "vpn.estg.ipvc.pt"
+                            },
+    "User Account Audit":  {
+                               "FullName":  "Ruben da Luz",
+                               "Name":  "User",
+                               "LastLogon":  "\/Date(1718966550440)\/"
+                           },
+    "Windows Defender":  [
+
+                         ],
+    "File Integrity Check":  [
+
+                             ],
+    "Specific firewall rules are enforced":  [
+                                                 {
+                                                     "Profile":  "Public",
+                                                     "Description":  "arduino ide.exe",
+                                                     "Name":  "arduino ide.exe",
+                                                     "Direction":  "Inbound",
+                                                     "Action":  "Bypass"
+                                                 },
+                                                 {
+                                                     "Profile":  "Public",
+                                                     "Description":  "arduino ide.exe",
+                                                     "Name":  "arduino ide.exe",
+                                                     "Direction":  "Inbound",
+                                                     "Action":  "Bypass"
+                                                 },
+                                                 {
+                                                     "Profile":  "Public",
+                                                     "Description":  "javaw",
+                                                     "Name":  "javaw",
+                                                     "Direction":  "Inbound",
+                                                     "Action":  "Bypass"
+                                                 },
+                                                 {
+                                                     "Profile":  "Public",
+                                                     "Description":  "javaw",
+                                                     "Name":  "javaw",
+                                                     "Direction":  "Inbound",
+                                                     "Action":  "Bypass"
+                                                 }
+                                             ],
+    "User Activities":  [
+
+                        ],
+    "Anonymous Connections":  [
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "52.108.50.36",
+                                      "LocalPort":  52364,
+                                      "RemotePort":  443
+                                  },
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "52.108.50.36",
+                                      "LocalPort":  52358,
+                                      "RemotePort":  443
+                                  },
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "40.101.137.66",
+                                      "LocalPort":  52349,
+                                      "RemotePort":  443
+                                  },
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "35.186.224.39",
+                                      "LocalPort":  52337,
+                                      "RemotePort":  443
+                                  },
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "20.238.236.234",
+                                      "LocalPort":  52336,
+                                      "RemotePort":  443
+                                  },
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "162.159.136.234",
+                                      "LocalPort":  52331,
+                                      "RemotePort":  443
+                                  },
+                                  {
+                                      "LocalAddress":  "127.0.0.1",
+                                      "RemoteAddress":  "127.0.0.1",
+                                      "LocalPort":  52276,
+                                      "RemotePort":  52275
+                                  },
+                                  {
+                                      "LocalAddress":  "127.0.0.1",
+                                      "RemoteAddress":  "127.0.0.1",
+                                      "LocalPort":  52275,
+                                      "RemotePort":  52276
+                                  },
+                                  {
+                                      "LocalAddress":  "127.0.0.1",
+                                      "RemoteAddress":  "127.0.0.1",
+                                      "LocalPort":  52274,
+                                      "RemotePort":  52273
+                                  },
+                                  {
+                                      "LocalAddress":  "127.0.0.1",
+                                      "RemoteAddress":  "127.0.0.1",
+                                      "LocalPort":  52273,
+                                      "RemotePort":  52274
+                                  },
+                                  {
+                                      "LocalAddress":  "127.0.0.1",
+                                      "RemoteAddress":  "127.0.0.1",
+                                      "LocalPort":  52272,
+                                      "RemotePort":  52271
+                                  },
+                                  {
+                                      "LocalAddress":  "127.0.0.1",
+                                      "RemoteAddress":  "127.0.0.1",
+                                      "LocalPort":  52271,
+                                      "RemotePort":  52272
+                                  },
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "64.233.184.188",
+                                      "LocalPort":  52070,
+                                      "RemotePort":  5228
+                                  },
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "142.251.5.188",
+                                      "LocalPort":  51601,
+                                      "RemotePort":  5228
+                                  },
+                                  {
+                                      "LocalAddress":  "10.1.187.197",
+                                      "RemoteAddress":  "20.54.36.229",
+                                      "LocalPort":  49443,
+                                      "RemotePort":  443
+                                  }
+                              ]
+}

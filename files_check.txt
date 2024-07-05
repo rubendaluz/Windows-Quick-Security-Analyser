@@ -1,0 +1,10 @@
+C:\Windows\System32\ntoskrnl.exe
+C:\Windows\System32\winlogon.exe
+C:\Windows\System32\explorer.exe
+C:\Windows\System32\cmd.exe
+C:\Windows\System32\services.exe
+C:\Windows\System32\svchost.exe
+C:\Windows\System32\lsass.exe
+C:\Windows\System32\smss.exe
+C:\Windows\System32\csrss.exe
+C:\Windows\System32\spoolsv.exe
